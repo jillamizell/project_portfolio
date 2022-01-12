@@ -1,4 +1,4 @@
-# Natural Language Processing to Advance Automoation: What is the Role of the Human Agent in the Customer Journey?
+# Natural Language Processing to Advance Automation: What is the Role of the Human Agent in the Customer Journey?
 Jill Mizell
 
 # Executive Summary

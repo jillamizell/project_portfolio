@@ -63,6 +63,8 @@ The following 21 features were used for the cluster analysis:
 
 ![Fig1](images/cluster_hm.png)
 
+![Fig2](images/sex_clust_cidot.png)
+
 ## Data Dictionary: Features for Factor Analysis
 
 The following 41 features were used for the cluster analysis:

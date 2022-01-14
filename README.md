@@ -1,2 +1,3 @@
-# project_portfolio
-Portfolio of data science and machine learning projects.
+# Data Science Portfolio
+
+1. [Segmenting Audiences for Campaign Communications: Cluster Analysis of Americans’ Views on Science](unsupervised-learning-multinomial-classification). A global public health organization is planning an international public education campaign to promote scientific understanding and support for scientific and technological research and advancement in a number of key markets. The first step will be to gain insight into different audience segments to understand how attitudes toward a range of topics in science vary, to inform messaging strategy. **Data**: Pew Research Center [International Science Survey](https://www.pewresearch.org/science/dataset/international-science-survey/), n=32,330, fielded October 1, 2019 to March 15, 2020. **Methods**: KMeans Cluster Analysis, Factor Analysis, Cross-Validation, Logistic Regression, Hyperparameter Tuning (GridSearchCV), Regularization (Ridge, Lasso, Elasticnet).
